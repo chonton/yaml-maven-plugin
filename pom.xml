@@ -71,7 +71,7 @@
     <!-- use org.apache.maven.plugins:maven-scm-publish-plugin instead of org.apache.maven.plugins:maven-site-plugin -->
     <maven.site.deploy.skip>true</maven.site.deploy.skip>
 
-    <maven.version>3.2.5</maven.version>
+    <maven.version>3.8.1</maven.version>
     <plugin-plugin.version>3.8.2</plugin-plugin.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
